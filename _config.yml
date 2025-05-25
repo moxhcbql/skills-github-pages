@@ -1,0 +1,13 @@
+theme: minima
+title: 我的第一个博客
+author: say
+description: 分享我的生活与思考
+# 语言设置
+language: 'zh-CN'
+# 时间格式
+timezone: Asia/Shanghai
+# Markdown 解析器
+markdown: kramdown
+# 静态资源路径
+sass:
+  style: compressed
